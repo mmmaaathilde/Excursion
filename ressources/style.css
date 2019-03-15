@@ -1,0 +1,28 @@
+* {
+  font-family: Verdana;
+  text-align: center;
+}
+
+body {
+  background-color: black;
+}
+
+h1 {
+  color: white;
+  font-size: 50px;
+}
+
+
+.top-tile {
+  font-weight: normal;
+}
+
+.second-title {
+  font-weight: 300;
+  font-size: 42px;
+}
+
+.download-link {
+  color: aquamarine;
+  font-size: 16px;
+}
